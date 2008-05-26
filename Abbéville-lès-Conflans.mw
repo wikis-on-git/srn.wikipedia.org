@@ -1,0 +1,47 @@
+[[Image:Meurthe-et-Moselle-Position.png|thumb|A lokasi fu Meurthe-et-Moselle]]
+
+'''Abbéville-lès-Conflans''' e ben wan minti ini a [[Franskondre|Franskondre]] departementi [[Meurthe-et-Moselle|Meurthe-et-Moselle]] (regio Lotari) nanga e abi 236 man (2004). A presi e ben wan ondrodeli fu a arrondissementi Briey.
+
+== Geografi ==
+A opoflaku fu Abbéville-lès-Conflans e ben 7,7 km², a manklositisi e ben 30,7 man fu km².
+
+== Demografi ==
+A ondrobenin figur e gi a fulopi fu a numro den man.
+<timeline>                                                
+ImageSize  = width:250 height:200                          
+PlotArea   = left:40 right:10 top:10 bottom:20            
+TimeAxis   = orientation:horizontal                       
+AlignBars  = justify                                       
+Colors =                                                
+  id:gray1 value:gray(0.9)                           
+                                                  
+DateFormat = yyyy                                 
+Period     = from:1960 till:2010                 
+ScaleMajor = unit:year increment:10 start:1960
+                                    
+PlotData =                          
+  bar:330 color:gray1 width:1       
+  from:start till:end             
+  bar:220 color:gray1              
+  from:start till:end            
+  bar:110 color:gray1           
+  from:start till:end         
+  bar:0 color:gray1       
+                       
+                    
+LineData =       
+  layer:front    
+  points:(48,145)(84,133) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 242 1968: 219
+  points:(84,133)(100,124)    color:blue    width:2 #1975: 201
+  points:(100,124)(128,116)   color:blue    width:2 #1982: 186
+  points:(128,116)(160,134)   color:blue    width:2 #1990: 222
+  points:(160,134)(196,146)   color:blue    width:2 #1999: 244
+  points:(196,146)(228,142)     color:blue    width:2 #2004/5 
+  
+</timeline>
+
+[[nl:Abbéville-lès-Conflans]]
+
+[[Category:Presi]]
+[[Category:Wp/srn]]
+[[Category:Minti ini Meurthe-et-Moselle]]
