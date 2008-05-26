@@ -1,0 +1,47 @@
+[[Image:Meurthe-et-Moselle-Position.png|thumb|A lokasi fu Meurthe-et-Moselle]]
+
+'''Aboncourt (Meurthe-et-Moselle)''' e ben wan minti ini a [[Franskondre|Franskondre]] departementi [[Meurthe-et-Moselle|Meurthe-et-Moselle]] (regio Lotari) nanga e abi 127 man (2005). A presi e ben wan ondrodeli fu a arrondissementi Toul.
+
+== Geografi ==
+A opoflaku fu Aboncourt (Meurthe-et-Moselle) e ben 7,1 km², a manklositisi e ben 17,9 man fu km².
+
+== Demografi ==
+A ondrobenin figur e gi a fulopi fu a numro den man.
+<timeline>                                                
+ImageSize  = width:250 height:200                          
+PlotArea   = left:40 right:10 top:10 bottom:20            
+TimeAxis   = orientation:horizontal                       
+AlignBars  = justify                                       
+Colors =                                                
+  id:gray1 value:gray(0.9)                           
+                                                  
+DateFormat = yyyy                                 
+Period     = from:1960 till:2010                 
+ScaleMajor = unit:year increment:10 start:1960
+                                    
+PlotData =                          
+  bar:300 color:gray1 width:1       
+  from:start till:end             
+  bar:200 color:gray1              
+  from:start till:end            
+  bar:100 color:gray1           
+  from:start till:end         
+  bar:0 color:gray1       
+                       
+                    
+LineData =       
+  layer:front    
+  points:(48,104)(84,95) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 149 1968: 133
+  points:(84,95)(100,97)    color:blue    width:2 #1975: 136
+  points:(100,97)(128,98)   color:blue    width:2 #1982: 137
+  points:(128,98)(160,88)   color:blue    width:2 #1990: 120
+  points:(160,88)(196,90)   color:blue    width:2 #1999: 123
+  points:(196,90)(228,92)     color:blue    width:2 #2004/5 
+  
+</timeline>
+
+[[nl:Aboncourt (Meurthe-et-Moselle)]]
+
+[[Category:Presi]]
+[[Category:Wp/srn]]
+[[Category:Minti ini Meurthe-et-Moselle]]
