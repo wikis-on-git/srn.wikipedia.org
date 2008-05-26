@@ -1,0 +1,47 @@
+[[Image:Meurthe-et-Moselle-Position.png|thumb|A lokasi fu Meurthe-et-Moselle]]
+
+'''Amenoncourt''' e ben wan minti ini a [[Franskondre|Franskondre]] departementi [[Meurthe-et-Moselle|Meurthe-et-Moselle]] (regio Lotari) nanga e abi 99 man (2005). A presi e ben wan ondrodeli fu a arrondissementi Lunéville.
+
+== Geografi ==
+A opoflaku fu Amenoncourt e ben 7,0 km², a manklositisi e ben 14,1 man fu km².
+
+== Demografi ==
+A ondrobenin figur e gi a fulopi fu a numro den man.
+<timeline>                                                
+ImageSize  = width:250 height:200                          
+PlotArea   = left:40 right:10 top:10 bottom:20            
+TimeAxis   = orientation:horizontal                       
+AlignBars  = justify                                       
+Colors =                                                
+  id:gray1 value:gray(0.9)                           
+                                                  
+DateFormat = yyyy                                 
+Period     = from:1960 till:2010                 
+ScaleMajor = unit:year increment:10 start:1960
+                                    
+PlotData =                          
+  bar:300 color:gray1 width:1       
+  from:start till:end             
+  bar:200 color:gray1              
+  from:start till:end            
+  bar:100 color:gray1           
+  from:start till:end         
+  bar:0 color:gray1       
+                       
+                    
+LineData =       
+  layer:front    
+  points:(48,83)(84,90) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 112 1968: 123
+  points:(84,90)(100,75)    color:blue    width:2 #1975: 97
+  points:(100,75)(128,68)   color:blue    width:2 #1982: 84
+  points:(128,68)(160,72)   color:blue    width:2 #1990: 91
+  points:(160,72)(196,74)   color:blue    width:2 #1999: 96
+  points:(196,74)(228,76)     color:blue    width:2 #2004/5 
+  
+</timeline>
+
+[[nl:Amenoncourt]]
+
+[[Category:Presi]]
+[[Category:Wp/srn]]
+[[Category:Minti ini Meurthe-et-Moselle]]
