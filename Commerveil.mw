@@ -1,0 +1,51 @@
+[[Image:Sarthe-Position.png|thumb|A lokasi fu Sarthe]]
+'''Commerveil''' e ben wan minti ini a [[Franskondre|Franskondre]] departementi [[Sarthe (departementi)|Sarthe]] (regio [[Pays de la Loire|Pays de la Loire]]) nanga abi 132 man (2005). A presi e ben wan parti fu a [[Arrondissementi Mamers|Arrondissementi Mamers]].
+
+==Geografie==
+A opoflaku fu Commerveil e ben 5,6 km², a manklosi e ben 23,6 man ies km². 
+
+==Demografi==
+Ondrobenin figur gi a frulopi fu a numro fu man.
+<timeline>                                                
+ImageSize  = width:250 height:200                          
+PlotArea   = left:40 right:10 top:10 bottom:20            
+TimeAxis   = orientation:horizontal                       
+AlignBars  = justify                                       
+Colors =                                                
+  id:gray1 value:gray(0.9)                           
+                                                  
+DateFormat = yyyy                                 
+Period     = from:1960 till:2010                 
+ScaleMajor = unit:year increment:10 start:1960
+                                    
+PlotData =                          
+  bar:300 color:gray1 width:1       
+  from:start till:end             
+  bar:200 color:gray1              
+  from:start till:end            
+  bar:100 color:gray1           
+  from:start till:end         
+  bar:0 color:gray1       
+                       
+                    
+LineData =       
+  layer:front    
+  points:(48,128)(84,113) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 190 1968: 165
+  points:(84,113)(100,102)    color:blue    width:2 #1975: 144
+  points:(100,102)(128,84)   color:blue    width:2 #1982: 113
+  points:(128,84)(160,96)   color:blue    width:2 #1990: 134
+  points:(160,96)(196,93)   color:blue    width:2 #1999: 129
+  points:(196,93)(228,95)     color:blue    width:2 #2004/5 
+  
+</timeline>     
+
+[[ceb:Commerveil]]
+[[fr:Commerveil]]
+[[it:Commerveil]]
+[[pl:Commerveil]]
+[[sr:Комервеј]]
+[[vo:Commerveil]]
+
+[[Category:Presi]]
+[[Category:Minti ini Sarthe]]
+[[Category:Wp/srn]]
