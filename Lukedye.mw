@@ -1,0 +1,72 @@
+'''Lukedye''' ben wan presi ini a [[Somalikondre|Somalikondre]].
+
+<!-- [[image:Location{{PAGENAME}}.png|thumb|Pe a presi ini flaku van [[Somalikondre|Somalikondre]] ben okasi.]]
+
+--><!--'''Yufle''' --><!-- ([[Somalitongo|Somalit.]]: ''{{stow enki}}'') --><!-- ben wan presi ini [[Somalikondre|Somalikondre]], taki wan kondre ini [[Afrka|Afrka]] ben. A karto numro ben Nd40.-->
+<!-- -->
+<!-- A [[Presiplusplus|presiplusplus]] ben {{stow enki}}. Trawan funen presi ben {{stow enki}} nanga {{stow enki}}. -->
+<!-- -->
+<!-- A presi abi {{stow enki}} [[Km²|km²]], pefu {{stow enki}} km² watra, leki flaku nanga {{stow enki}} man ini sin taki wan spredi gi fu {{stow enki}} man ies km². -->
+<!-- -->
+<!-- A net-teki ben {{stow enki}} nanga a postukode ben {{stow enki}}. Funen autorustaru ben {{stow enki}}. -->
+<!-- -->
+
+Lukedye e ben wan guru 1000 - 5000 klasse presi. Nanga e abi no so pasa frusini. [[Berbera|Berbera]] e ben a preki fu disi opoflaku. Disi presi e ben ofiseli gu nanga kan via nen fu a Somalikondre somaliregime. Disi presi e ben no fu aldotiblangi nanga e abi tu pikinr grontapu-opoflaku nanga oso-lay fu disi role. A populasi fu disi presi e resi disi ten oktu.
+
+== Demografi ==
+<br clear=left> 
+<timeline>      
+ImageSize  = width:390 height:200     
+      
+#hoogte  yas 200px-30px marge is 170px voor grafiek 
+    
+    
+PlotArea   = left:60 right:10 top:10 bottom:20   
+TimeAxis   = orientation:horizontal   
+AlignBars  = justify    
+Colors =        
+  id:gray1 value:gray(0.9)    
+              
+DateFormat = yyyy         
+Period     = from:211 till:249   
+ 
+ScaleMajor = unit:year increment:20 start:211 
+PlotData =     
+  bar:12000 color:gray1 width:1    #gridlijn ywaarde3_3      
+  from:start till:end    
+  bar:8000 color:gray1            #gridlijn ywaarde2_3       
+  from:start till:end     
+  bar:4000 color:gray1            #gridlijn ywaarde1_3        
+  from:start till:end       
+  bar:0 color:gray1          
+       
+# berekening van xwaarde punt: 60+ ((jaartal-jaartalminimum)*pxperyear)  
+# berekening van ywaarde punt: 20+ (pxperinwoner * inwoners )           
+    
+LineData =       
+  layer:front     
+  points:(60,20)(77,20)  color:blue  width:2 
+  points:(77,20)(94,20)  color:blue  width:2 
+  points:(94,20)(111,21)  color:blue  width:2 
+  points:(111,21)(127,21)  color:blue  width:2 
+  points:(127,21)(144,22)  color:blue  width:2 
+  points:(144,22)(161,22)  color:blue  width:2 
+  points:(161,22)(178,23)  color:blue  width:2 
+  points:(178,23)(195,24)  color:blue  width:2 
+  points:(195,24)(212,25)  color:blue  width:2 
+  points:(212,25)(228,26)  color:blue  width:2 
+  points:(228,26)(245,28)  color:blue  width:2 
+  points:(245,28)(262,29)  color:blue  width:2 
+  points:(262,29)(279,33)  color:blue  width:2 
+  points:(279,33)(296,43)  color:blue  width:2 
+  points:(296,43)(313,48)  color:blue  width:2 
+  points:(313,48)(329,56)  color:blue  width:2 
+  points:(329,56)(346,78)  color:blue  width:2 
+  points:(346,78)(363,102)  color:blue  width:2 
+  points:(363,102)(380,120)  color:blue  width:2 
+</timeline>          
+<br clear=left>
+
+[[Category:Presi fu Somalikondre]]
+[[Category:Wp/srn]]
+[[Category:Presi]]
