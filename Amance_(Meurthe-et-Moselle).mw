@@ -1,0 +1,46 @@
+[[Image:Meurthe-et-Moselle-Position.png|thumb|A lokasi fu Meurthe-et-Moselle]]
+
+'''Amance (Meurthe-et-Moselle)''' e ben wan minti ini a [[Franskondre|Franskondre]] departementi [[Meurthe-et-Moselle|Meurthe-et-Moselle]] (regio Lotari) nanga e abi 296 man (1999). A presi e ben wan ondrodeli fu a arrondissementi Nancy.
+
+== Geografi ==
+A opoflaku fu Amance (Meurthe-et-Moselle) e ben 13,6 km², a manklositisi e ben 21,8 man fu km².
+
+== Demografi ==
+A ondrobenin figur e gi a fulopi fu a numro den man.
+<timeline>                                                
+ImageSize  = width:250 height:200                          
+PlotArea   = left:40 right:10 top:10 bottom:20            
+TimeAxis   = orientation:horizontal                       
+AlignBars  = justify                                       
+Colors =                                                
+  id:gray1 value:gray(0.9)                           
+                                                  
+DateFormat = yyyy                                 
+Period     = from:1960 till:2010                 
+ScaleMajor = unit:year increment:10 start:1960
+                                    
+PlotData =                          
+  bar:480 color:gray1 width:1       
+  from:start till:end             
+  bar:320 color:gray1              
+  from:start till:end            
+  bar:160 color:gray1           
+  from:start till:end         
+  bar:0 color:gray1       
+                       
+                    
+LineData =       
+  layer:front    
+  points:(48,139)(84,128) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 336 1968: 304
+  points:(84,128)(100,133)    color:blue    width:2 #1975: 319
+  points:(100,133)(128,137)   color:blue    width:2 #1982: 329
+  points:(128,137)(160,131)   color:blue    width:2 #1990: 312
+  points:(160,131)(196,125)   color:blue    width:2 #1999: 296
+  
+</timeline>
+
+[[nl:Amance (Meurthe-et-Moselle)]]
+
+[[Category:Presi]]
+[[Category:Wp/srn]]
+[[Category:Minti ini Meurthe-et-Moselle]]
