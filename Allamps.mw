@@ -1,0 +1,46 @@
+[[Image:Meurthe-et-Moselle-Position.png|thumb|A lokasi fu Meurthe-et-Moselle]]
+
+'''Allamps''' e ben wan minti ini a [[Franskondre|Franskondre]] departementi [[Meurthe-et-Moselle|Meurthe-et-Moselle]] (regio Lotari) nanga e abi 511 man (1999). A presi e ben wan ondrodeli fu a arrondissementi Toul.
+
+== Geografi ==
+A opoflaku fu Allamps e ben 7,3 km², a manklositisi e ben 70,0 man fu km².
+
+== Demografi ==
+A ondrobenin figur e gi a fulopi fu a numro den man.
+<timeline>                                                
+ImageSize  = width:250 height:200                          
+PlotArea   = left:40 right:10 top:10 bottom:20            
+TimeAxis   = orientation:horizontal                       
+AlignBars  = justify                                       
+Colors =                                                
+  id:gray1 value:gray(0.9)                           
+                                                  
+DateFormat = yyyy                                 
+Period     = from:1960 till:2010                 
+ScaleMajor = unit:year increment:10 start:1960
+                                    
+PlotData =                          
+  bar:600 color:gray1 width:1       
+  from:start till:end             
+  bar:400 color:gray1              
+  from:start till:end            
+  bar:200 color:gray1           
+  from:start till:end         
+  bar:0 color:gray1       
+                       
+                    
+LineData =       
+  layer:front    
+  points:(48,170)(84,163) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 531 1968: 506
+  points:(84,163)(100,143)    color:blue    width:2 #1975: 434
+  points:(100,143)(128,144)   color:blue    width:2 #1982: 438
+  points:(128,144)(160,166)   color:blue    width:2 #1990: 515
+  points:(160,166)(196,165)   color:blue    width:2 #1999: 511
+  
+</timeline>
+
+[[nl:Allamps]]
+
+[[Category:Presi]]
+[[Category:Wp/srn]]
+[[Category:Minti ini Meurthe-et-Moselle]]
