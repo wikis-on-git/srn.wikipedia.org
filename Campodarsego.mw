@@ -1,0 +1,115 @@
+'''Campodarsego''' e ben wan minti ini a [[Italikondre|Italiyani]] provinsi [[Padua|Padua]] (regio [[Veneto|Veneto]]) nanga e abi 12.209 man (31 fostwarfu mun 2004). A opoflaku e abi wan teri fu 25,6 km², nanga a klosi fu den man ini a minti e ben 477 man ies km².
+
+Den nebiben frazioni meki parti u fu a minti: Sant'Andrea, Bronzola, Fiumicello, Reschigliano, Bosco del Vescovo.
+
+__TOC__
+
+== Demografi ==
+Campodarsego e abi wan teri fu sowe 4.117 oso-lay.  A teri fu man o resi ini a periodi 1991-2001 nanga 9,7%  via a nen fu disi teri u den tenyarili manteri fu a ISTAT.
+
+{| class="prettytable" style="text-align:center;" border="1" 
+! width=70px  | Yari 
+! width=100px | Terinumro fu man
+|- 
+| 1991 || 10.462
+|- 
+| 2001 || 11.474
+|}
+
+=== Si evolusi ===
+
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:455 height:303
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:12000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:2000 start:0
+ScaleMinor = gridcolor:lightgrey increment:500 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+  bar:1861 text:1861
+  bar:1871 text:1871
+  bar:1881 text:1881
+  bar:1901 text:1901
+  bar:1911 text:1911
+  bar:1921 text:1921
+  bar:1931 text:1931
+  bar:1936 text:1936
+  bar:1951 text:1951
+  bar:1961 text:1961
+  bar:1971 text:1971
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:2001 text:2001
+
+PlotData=
+  color:barra width:20 align:left
+
+  bar:1861 from: 0 till:0
+  bar:1871 from: 0 till:3528
+  bar:1881 from: 0 till:4032
+  bar:1901 from: 0 till:4947
+  bar:1911 from: 0 till:6542
+  bar:1921 from: 0 till:7183
+  bar:1931 from: 0 till:7289
+  bar:1936 from: 0 till:7701
+  bar:1951 from: 0 till:8111
+  bar:1961 from: 0 till:8131
+  bar:1971 from: 0 till:9390
+  bar:1981 from: 0 till:10226
+  bar:1991 from: 0 till:10462
+  bar:2001 from: 0 till:11474
+
+PlotData=
+
+  bar:1861 at:0 fontsize:XS text: ? shift:(-8,5)
+  bar:1871 at:3528 fontsize:XS text: 3528 shift:(-8,5)
+  bar:1881 at:4032 fontsize:XS text: 4032 shift:(-8,5)
+  bar:1901 at:4947 fontsize:XS text: 4947 shift:(-8,5)
+  bar:1911 at:6542 fontsize:XS text: 6542 shift:(-8,5)
+  bar:1921 at:7183 fontsize:XS text: 7183 shift:(-8,5)
+  bar:1931 at:7289 fontsize:XS text: 7289 shift:(-8,5)
+  bar:1936 at:7701 fontsize:XS text: 7701 shift:(-8,5)
+  bar:1951 at:8111 fontsize:XS text: 8111 shift:(-8,5)
+  bar:1961 at:8131 fontsize:XS text: 8131 shift:(-8,5)
+  bar:1971 at:9390 fontsize:XS text: 9390 shift:(-8,5)
+  bar:1981 at:10226 fontsize:XS text: 10226 shift:(-8,5)
+  bar:1991 at:10462 fontsize:XS text: 10462 shift:(-8,5)
+  bar:2001 at:11474 fontsize:XS text: 11474 shift:(-8,5)
+
+TextData=
+  fontsize:S pos:(20,20)
+  text:Infrumasi fu ISTAT
+
+</timeline>
+
+== Geografi ==
+
+Campodarsego e ben borderi a den konin minti: [[Borgoricco|Borgoricco]], [[Cadoneghe|Cadoneghe]], [[San Giorgio delle Pertiche|San Giorgio delle Pertiche]], [[Vigodarzere|Vigodarzere]], [[Vigonza|Vigonza]], [[Villanova di Camposampiero|Villanova di Camposampiero]].
+
+== Skaki na dorosey ==
+* [http://www.comune.campodarsego.pd.it/ Website fu a minti]
+
+[[en:Campodarsego]]
+[[eo:Campodarsego]]
+[[fr:Campodarsego]]
+[[it:Campodarsego]]
+[[ja:カンポダルセゴ]]
+[[nap:Campodarsego]]
+[[pl:Campodarsego]]
+[[pt:Campodarsego]]
+[[vec:Canpodarsego]]
+[[vo:Campodarsego]]
+
+[[Category:Wp/srn]]
+[[Category:Minti ini Padua]]
+[[Category:Presi]]
