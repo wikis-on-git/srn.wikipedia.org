@@ -1,0 +1,117 @@
+'''Sant'Agata de' Goti'''  e ben wan minti ini a [[Italikondre|Italiyani]] provinsi [[Benevento|Benevento]] (regio [[Campania|Campania]]) nanga e abi 11.541 man (31 fostwarfu mun 2004). A opoflaku e abi wan teri fu 62,9 km², nanga a klosi fu den man ini a minti e ben 187 man ies km².
+
+Den nebiben frazioni meki parti u fu a minti: Bagnoli.
+
+__TOC__
+
+== Demografi ==
+Sant'Agata de' Goti e abi wan teri fu sowe 4.408 oso-lay. A teri fu man o resi ini a periodi 1991-2001 nanga 2,1% via a nen fu disi teri u den tenyarili manteri fu a ISTAT.
+
+{| class="prettytable" style="text-align:center;" border="1" 
+! width=70px  | Yari 
+! width=100px | Terinumro fu man
+|- 
+| 1991 || 11.325
+|- 
+| 2001 || 11.558
+|}
+
+=== Si evolusi ===
+
+<timeline>
+Colors=
+  id:lightgrey value:gray(0.9)
+  id:darkgrey  value:gray(0.8)
+  id:sfondo value:rgb(1,1,1)
+  id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize  = width:455 height:303
+PlotArea   = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period     = from:0 till:13000
+TimeAxis   = orientation:vertical
+AlignBars  = justify
+ScaleMajor = gridcolor:darkgrey increment:2000 start:0
+ScaleMinor = gridcolor:lightgrey increment:500 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+  bar:1861 text:1861
+  bar:1871 text:1871
+  bar:1881 text:1881
+  bar:1901 text:1901
+  bar:1911 text:1911
+  bar:1921 text:1921
+  bar:1931 text:1931
+  bar:1936 text:1936
+  bar:1951 text:1951
+  bar:1961 text:1961
+  bar:1971 text:1971
+  bar:1981 text:1981
+  bar:1991 text:1991
+  bar:2001 text:2001
+
+PlotData=
+  color:barra width:20 align:left
+
+  bar:1861 from: 0 till:7957
+  bar:1871 from: 0 till:8088
+  bar:1881 from: 0 till:8220
+  bar:1901 from: 0 till:8525
+  bar:1911 from: 0 till:8479
+  bar:1921 from: 0 till:11087
+  bar:1931 from: 0 till:11964
+  bar:1936 from: 0 till:10936
+  bar:1951 from: 0 till:12599
+  bar:1961 from: 0 till:11981
+  bar:1971 from: 0 till:11058
+  bar:1981 from: 0 till:11350
+  bar:1991 from: 0 till:11325
+  bar:2001 from: 0 till:11558
+
+PlotData=
+
+  bar:1861 at:7957 fontsize:XS text: 7957 shift:(-8,5)
+  bar:1871 at:8088 fontsize:XS text: 8088 shift:(-8,5)
+  bar:1881 at:8220 fontsize:XS text: 8220 shift:(-8,5)
+  bar:1901 at:8525 fontsize:XS text: 8525 shift:(-8,5)
+  bar:1911 at:8479 fontsize:XS text: 8479 shift:(-8,5)
+  bar:1921 at:11087 fontsize:XS text: 11087 shift:(-8,5)
+  bar:1931 at:11964 fontsize:XS text: 11964 shift:(-8,5)
+  bar:1936 at:10936 fontsize:XS text: 10936 shift:(-8,5)
+  bar:1951 at:12599 fontsize:XS text: 12599 shift:(-8,5)
+  bar:1961 at:11981 fontsize:XS text: 11981 shift:(-8,5)
+  bar:1971 at:11058 fontsize:XS text: 11058 shift:(-8,5)
+  bar:1981 at:11350 fontsize:XS text: 11350 shift:(-8,5)
+  bar:1991 at:11325 fontsize:XS text: 11325 shift:(-8,5)
+  bar:2001 at:11558 fontsize:XS text: 11558 shift:(-8,5)
+
+TextData=
+  fontsize:S pos:(20,20)
+  text:Infrumasi fu ISTAT
+
+</timeline>
+
+== Geografi ==
+
+Sant'Agata de' Goti e ben borderi a den konin minti: [[Arienzo|Arienzo]] (CE), [[Caserta|Caserta]] (CE), [[Dugenta|Dugenta]], [[Durazzano|Durazzano]], [[Frasso Telesino|Frasso Telesino]], [[Limatola|Limatola]], [[Moiano|Moiano]], [[Santa Maria a Vico|Santa Maria a Vico]] (CE), [[Tocco Caudio|Tocco Caudio]], [[Valle di Maddaloni|Valle di Maddaloni]] (CE).
+
+== Skaki na dorosey ==
+* [http://www.santagatadegoti.net/ A website fu a minti]
+* [http://www.santagatadeigoti.net/ A website fu a minti]
+* [http://santagatadegoti.asmenet.it/ A website fu a minti]
+
+[[en:Sant'Agata de' Goti]]
+[[eo:Sant'Agata de' Goti]]
+[[fr:Sant'Agata de' Goti]]
+[[it:Sant'Agata de' Goti]]
+[[ja:サンターガタ・デ・ゴーティ]]
+[[la:Saticula (urbs nova)]]
+[[nap:Sant'Agata de' Goti]]
+[[pl:Sant'Agata de' Goti]]
+[[pt:Sant'Agata de' Goti]]
+[[vo:Sant'Agata de' Goti]]
+
+[[Category:Wp/srn]]
+[[Category:Minti ini Benevento]]
+[[Category:Presi]]
