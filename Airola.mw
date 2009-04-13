@@ -1,9 +1,9 @@
-'''Airola''' e ben wan minti ini a [[Italikondre|Italiyani]] provinsi [[Benevento|Benevento]] (regio [[Campania|Campania]]) nanga e abi 7.770 man (31 fostwarfu mun 2004). A opoflaku e abi wan teri fu 14,5 km², nanga a klosi fu den man ini a minti e ben 538 man ies km².
+'''Airola''' e ben wan minti ini a [[Italikondre|Italiyani]] provinsi [[Benevento]] (regio [[Campania]]) nanga e abi 7.770 man (31 fostwarfu mun 2004). A opoflaku e abi wan teri fu 14,5 km², nanga a klosi fu den man ini a minti e ben 538 man ies km².
 
 __TOC__
 
 == Demografi ==
-Airola e abi wan teri fu sowe 2.647 oso-lay. A teri fu man o resi ini a periodi 1991-2001 nanga 1,4%  via a nen fu disi teri u den tenyarili manteri fu a ISTAT.
+Airola e abi wan teri fu sowe 2.647 oso-lay. A teri fu man o resi ini a periodi 1991-2001 nanga 1,4% via a nen fu disi teri u den tenyarili manteri fu a ISTAT.
 
 {| class="prettytable" style="text-align:center;" border="1" 
 ! width=70px  | Yari 
@@ -23,12 +23,12 @@ Colors=
   id:sfondo value:rgb(1,1,1)
   id:barra value:rgb(0.6,0.7,0.8)
 
-ImageSize  = width:455 height:303
-PlotArea   = left:50 bottom:50 top:30 right:30
+ImageSize = width:455 height:303
+PlotArea = left:50 bottom:50 top:30 right:30
 DateFormat = x.y
-Period     = from:0 till:8000
-TimeAxis   = orientation:vertical
-AlignBars  = justify
+Period = from:0 till:8000
+TimeAxis = orientation:vertical
+AlignBars = justify
 ScaleMajor = gridcolor:darkgrey increment:500 start:0
 ScaleMinor = gridcolor:lightgrey increment:100 start:0
 BackgroundColors = canvas:sfondo
@@ -93,14 +93,14 @@ TextData=
 == Geografi ==
 A minti e ben situasi opo sowe 270 meter bofu a senivo.
 
-Airola e ben borderi a den konin minti: [[Arpaia|Arpaia]], [[Bonea|Bonea]], [[Bucciano|Bucciano]], [[Forchia|Forchia]], [[Moiano|Moiano]], [[Paolisi|Paolisi]], [[Rotondi|Rotondi]] (AV).
+Airola e ben borderi a den konin minti: [[Arpaia]], [[Bonea]], [[Bucciano]], [[Forchia]], [[Moiano]], [[Paolisi]], [[Rotondi]] (AV).
 
 == Skaki na dorosey ==
 * [http://www.comune.airola.bn.it/ Website fu a minti]
 
-[[Category:Wp/srn]]
-[[Category:Minti ini Benevento]]
-[[Category:Presi]]
+[[Guru:Wp/srn]]
+[[Guru:Minti ini Benevento]]
+[[Guru:Presi]]
 
 [[en:Airola]]
 [[eo:Airola]]
@@ -109,7 +109,6 @@ Airola e ben borderi a den konin minti: [[Arpaia|Arpaia]], [[Bonea|Bonea]], [[Bu
 [[it:Airola]]
 [[ja:アイローラ]]
 [[jv:Airola]]
-[[mk:Аjрола]]
 [[nap:Airola]]
 [[nl:Airola]]
 [[pl:Airola]]
