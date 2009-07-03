@@ -9,8 +9,8 @@
 |map_caption                 = {{map_caption |region=Europe |subregion=EU |legend=European location legend en.png}}
 |national_motto              = Съединението прави силата{{spaces|2}}<small>([[Bulgarian language|Bulgarian]])</small><br/>''"Saedinenieto pravi silata"''{{spaces|2}}<small>([[transliteration]])<br/>"Unity makes strength"{{smallsup|1}}</small>
 |national_anthem             = [[Mila Rodino|Мила Родино]]{{spaces|2}}<small>(Bulgarian)</small><br/>''Mila Rodino''{{spaces|2}}<small>(transliteration)<br/>''Dear Motherland''</small>
-|official_languages          = [[Bulgaritongo|Bulgaritongo]]
-|capital                     = [[Sofia|Sofia]]
+|official_languages          = [[Bulgaritongo]]
+|capital                     = [[Sofia]]
 |latd=42 |latm=41 |latNS=N |longd=23 |longm=19 |longEW=E
 |largest_city                = capital
 |government_type             = [[Parliamentary republic]]
@@ -69,7 +69,7 @@
 |time_zone_DST               = [[Eastern European Summer Time|EEST]]
 |utc_offset_DST              = +3
 |demonym                     = [[Bulgarians|Bulgarian]]
-|cctld                       = [[.bg|.bg]] <!-- <sup>4</sup> -->
+|cctld                       = [[.bg]] <!-- <sup>4</sup> -->
 |calling_code                = 359
 |footnote1                   = {{cite web |title=Bulgaria’s National Flag |publisher=[[Politics of Bulgaria|Bulgarian Government]] |date=[[3 October]] [[2005]] |url=http://www.government.bg/cgi-bin/e-cms/vis/vis.pl?s=001&p=0159&n=000006&g= |accessdate=2007-01-01}}
 |footnote2                   = [[Vidin|Vidin Tsardom]].
@@ -79,15 +79,15 @@
 |footnote6                = Domestic power supply {{nowrap|220 V}}/{{nowrap|50 Hz}}, [[Schuko|Schuko (CEE 7/4) sockets]]
 |
 }}
-'''Bulgarikondre''' ([[Bulgaritongo|Bulgarit.]]: ''България, Balgariya'', IPA [bɤlˈgarijə]) efru '''Repoliku fu Bulgari''' ([[Bulgaritongo|Bulgarit.]]: ''Република България, Republika Balgariya'', IPA [rɛˈpubliˌkə bɤlˈgarijə]) e ben wan [[Kondre|kondre]] ini [[Ropa|Ropa]]. A presiplusplus e ben [[Sofia|Sofia]].
+'''Bulgarikondre''' ([[Bulgaritongo|Bulgarit.]]: ''България, Balgariya'', IPA [bɤlˈgarijə]) efru '''Repoliku fu Bulgari''' ([[Bulgaritongo|Bulgarit.]]: ''Република България, Republika Balgariya'', IPA [rɛˈpubliˌkə bɤlˈgarijə]) e ben wan [[kondre]] ini [[Ropa]]. A presiplusplus e ben [[Sofia]].
 
 {{Stub}}
 
-[[Category:Wp/srn]]
-[[Category:Bulgari]]
-[[Category:Bulgarikondre]]
-[[Category:Kondre]]
-[[Category:Ropa]]
+[[Guru:Wp/srn]]
+[[Guru:Bulgari]]
+[[Guru:Bulgarikondre]]
+[[Guru:Kondre]]
+[[Guru:Ropa]]
 
 [[af:Bulgarye]]
 [[als:Bulgarien]]
@@ -101,6 +101,7 @@
 [[az:Bolqarıstan]]
 [[bar:Bulgarien]]
 [[bat-smg:Bulgarėjė]]
+[[bcl:Bulgarya]]
 [[be:Балгарыя]]
 [[be-x-old:Баўгарыя]]
 [[bg:България]]
