@@ -3,7 +3,7 @@
 |nativename= Ⲙⲉⲧⲣⲉⲙ̀ⲛⲭⲏⲙⲓ ''Met.Remenkīmi''
 |familycolor=Afro-Asiatic
 |script=Koptiskri
-|states=[[Egipte|Egipte]]
+|states=[[Egipte]]
 |extinct=Near extinct since the [[17th century]]<ref>May have survived in isolated pockets in Upper Egypt into the 19th century (James Edward Quibell, ''When did Coptic become extinct?'' in: Zeitschrift für ägyptische Sprache und Altertumskunde, 39 (1901), p. 87).</ref><ref name="Daily Star Egypt">According to [http://www.dailystaregypt.com/article.aspx?ArticleID=106 Daily Star Egypt. 23 January 2007], two families speak the language in Egypt today.</ref>
 |fam1=[[Afro-Asiatitongo|Afro-Asiatisk]]
 |fam2=[[Egiptitongo|Egiptisk]]
@@ -44,7 +44,7 @@
 === Konsonant===
 
 {| class="wikitable" style="text-align:center;" border="1"
-|+ '''[[help:IPA|IPA]] chart of Coptic consonants'''
+|+ '''[[Yepi:IPA|IPA]] chart of Coptic consonants'''
 |-
 ! rowspan="2"  |
 ! rowspan ="2" | [[Bilabial consonant|Bilabial]]
@@ -167,11 +167,11 @@
 |-ⲟⲩ||ⲛ̅ⲧⲟⲟⲩ
 |}
 
-[[Category:Wp/srn]]
-[[Category:Tongo]]
-[[Category:Egiptisk]]
-[[Category:Koptitongo]]
-[[Category:Kopti]]
+[[Guru:Wp/srn]]
+[[Guru:Tongo]]
+[[Guru:Egiptisk]]
+[[Guru:Koptitongo]]
+[[Guru:Kopti]]
 
 [[af:Kopties]]
 [[als:Koptisch]]
@@ -179,6 +179,7 @@
 [[ar:لغة قبطية]]
 [[arz:لغه قبطى]]
 [[az:Kopt dili]]
+[[ba:Копт теле]]
 [[bg:Коптски език]]
 [[cs:Koptština]]
 [[cy:Copteg]]
