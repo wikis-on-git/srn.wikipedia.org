@@ -1,4 +1,4 @@
-'''Roccabruna'''  e ben wan minti ini a [[Italikondre|Italiyani]] provinsi [[Cuneo|Cueno]] (regio [[Piemonte|Piemonte]]) nanga e abi 1482 man (31 fostwarfu mun 2004). A opoflaku e abi wan teri fu 24,1 km², nanga a klosi fu den man ini a minti e ben 61 man ies km².
+'''Roccabruna''' e ben wan minti ini a [[Italikondre|Italiyani]] provinsi [[Cuneo|Cueno]] (regio [[Piemonte]]) nanga e abi 1482 man (31 fostwarfu mun 2004). A opoflaku e abi wan teri fu 24,1 km², nanga a klosi fu den man ini a minti e ben 61 man ies km².
 
 
 __TOC__
@@ -10,9 +10,9 @@ Roccabruna e abi wan teri fu sowe 657 oso-lay. A teri fu man o resi ini a period
 ! width=70px  | Yari 
 ! width=100px | Terinumro fu man
 |- 
-| [[1991|1991]] || 1.308
+| [[1991]] || 1.308
 |- 
-| [[2001|2001]] || 1.460
+| [[2001]] || 1.460
 |}
 
 === Si evolusi ===
@@ -24,12 +24,12 @@ Colors=
   id:sfondo value:rgb(1,1,1)
   id:barra value:rgb(0.6,0.7,0.8)
 
-ImageSize  = width:455 height:373
-PlotArea   = left:50 bottom:50 top:30 right:30
+ImageSize = width:455 height:373
+PlotArea = left:50 bottom:50 top:30 right:30
 DateFormat = x.y
-Period     = from:0 till:4000
-TimeAxis   = orientation:vertical
-AlignBars  = justify
+Period = from:0 till:4000
+TimeAxis = orientation:vertical
+AlignBars = justify
 ScaleMajor = gridcolor:darkgrey increment:500 start:0
 ScaleMinor = gridcolor:lightgrey increment:100 start:0
 BackgroundColors = canvas:sfondo
@@ -93,22 +93,23 @@ TextData=
 
 == Geografi ==
 
-Roccabruna e ben borderi a den konin minti: [[Cartignano|Cartignano]], [[Dronero|Dronero]], [[Melle|Melle]], [[San Damiano Macra|San Damiano Macra]], [[Valmala|Valmala]], [[Villar San Costanzo|Villar San Costanzo]].
+Roccabruna e ben borderi a den konin minti: [[Cartignano]], [[Dronero]], [[Melle]], [[San Damiano Macra]], [[Valmala]], [[Villar San Costanzo]].
 
 == Si oktu ==
-* [[Roccabruna teater|Roccabruna teater]]
+* [[Roccabruna teater]]
 
-[[Category:Wp/srn]]
-[[Category:Minti ini Cuneo]]
-[[Category:Presi]]
+[[Guru:Wp/srn]]
+[[Guru:Minti ini Cuneo]]
+[[Guru:Presi]]
 
 [[ca:Roccabruna]]
 [[de:Roccabruna]]
 [[en:Roccabruna]]
 [[eo:Roccabruna]]
+[[es:Roccabruna]]
 [[fr:Roccabruna]]
 [[id:Roccabruna]]
-[[it:Roccabruna]]
+[[it:Roccabruna (Italia)]]
 [[ja:ロッカブルーナ]]
 [[lmo:La Rocia de Droné]]
 [[nap:Roccabruna]]
