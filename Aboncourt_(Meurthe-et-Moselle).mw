@@ -1,5 +1,4 @@
 [[Image:Meurthe-et-Moselle-Position.png|thumb|A lokasi fu Meurthe-et-Moselle]]
-
 '''Aboncourt (Meurthe-et-Moselle)''' e ben wan minti ini a [[Franskondre|Franskondre]] departementi [[Meurthe-et-Moselle|Meurthe-et-Moselle]] (regio Lotari) nanga e abi 127 man (2005). A presi e ben wan ondrodeli fu a arrondissementi Toul.
 
 == Geografi ==
@@ -26,8 +25,7 @@ PlotData =
   from:start till:end            
   bar:100 color:gray1           
   from:start till:end         
-  bar:0 color:gray1       
-                       
+  bar:0 color:gray1
                     
 LineData =       
   layer:front    
@@ -41,5 +39,4 @@ LineData =
 </timeline>
 
 [[Guru:Presi]]
-[[Guru:Wp/srn]]
 [[Guru:Minti ini Meurthe-et-Moselle]]
