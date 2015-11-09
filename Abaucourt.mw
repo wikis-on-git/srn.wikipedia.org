@@ -1,5 +1,4 @@
 [[Image:Meurthe-et-Moselle-Position.png|thumb|A lokasi fu Meurthe-et-Moselle]]
-
 '''Abaucourt''' e ben wan minti ini a [[Franskondre|Franskondre]] departementi [[Meurthe-et-Moselle|Meurthe-et-Moselle]] (regio Lotari) nanga e abi 309 man (1999). A presi e ben wan ondrodeli fu a arrondissementi Nancy.
 
 == Geografi ==
@@ -28,7 +27,6 @@ PlotData =
   from:start till:end         
   bar:0 color:gray1       
                        
-                    
 LineData =       
   layer:front    
   points:(48,141)(84,133) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 298 1968: 279
@@ -40,5 +38,4 @@ LineData =
 </timeline>
 
 [[Guru:Presi]]
-[[Guru:Wp/srn]]
 [[Guru:Minti ini Meurthe-et-Moselle]]
