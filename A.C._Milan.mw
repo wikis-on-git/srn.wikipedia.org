@@ -1,6 +1,6 @@
 {{Fubal pluga
 |nome squadra = A.C. Milan
-|nomestemma = milanstemma.png
+|nomestemma = ACMilan logo.png
 |soprannomi = ''I Rossoneri'', ''il Diavolo''
 <!-- Livrea delle divise -->
 |kit = 
@@ -8,36 +8,36 @@
 |squadra2 = 
 |squadra3 = 
 <!-- Divisa casalinga -->
-| pattern_la1  =_acm1213h
-| pattern_b1   =_acm1213h
-| pattern_ra1  =_acm1213h
-| pattern_sh1  =_acm1213h
-| pattern_so1  =_acm1213h
-| leftarm1     = FFFFFF
-| body1        = FFFFFF
-| rightarm1    = FFFFFF
-| shorts1      = FFFFFF
+| pattern_la1  = _acmilan1617h	
+| pattern_b1   = _acmilan1617h	
+| pattern_ra1  = _acmilan1617h	
+| pattern_sh1  = _acmilan1617h	
+| pattern_so1  = _acmilan1617h
+| leftarm1     = 000000
+| body1        = 000000
+| rightarm1    = 000000
+| shorts1      = 000000
 | socks1       = 000000
-| pattern_la2  =_acm1213a
-| pattern_b2   =_acm1213a
-| pattern_ra2  =_acm1213a
-| pattern_sh2  =_acm1213a
-| pattern_so2  =_acm1213a
+| pattern_la2  =_acmilan1617a
+| pattern_b2   =_acmilan1617a
+| pattern_ra2  =_acmilan1617a
+| pattern_sh2  =_acmilan1617a
+| pattern_so2  =_acmilan1617a
 | leftarm2     = FFFFFF
 | body2        = FFFFFF
 | rightarm2    = FFFFFF
 | shorts2      = FFFFFF
 | socks2       = FFFFFF
-| pattern_la3  =_acm1112t
-| pattern_b3   =_acm1213t
-| pattern_ra3  =_acm1112t
-| pattern_sh3  =_acm1213t
-| pattern_so3  =_color_3_stripes_red
-| leftarm3     = FFFFFF
-| body3        = FFFFFF
-| rightarm3    = FFFFFF
-| shorts3      = FFFFFF
-| socks3       = 000000
+| pattern_la3  =_acmilan1617t
+| pattern_b3   =_acmilan1617t
+| pattern_ra3  =_acmilan1617t
+| pattern_sh3  =_acmilan1617t
+| pattern_so3  =_acmilan1617t
+| leftarm3     = 1C251E
+| body3        = 1C251E
+| rightarm3    = 1C251E
+| shorts3      = 1C251E
+| socks3       = 1C251E
 |terza divisa = Terza divisa
 <!-- Segni distintivi -->
 |colori = [[File:600px Bianco e Rosso (Croce) e Rosso e Nero (Strisce).png|20px]] [[Rosso]] - [[Nero]]
@@ -54,8 +54,8 @@
 |annofondazione = 1899
 |annoscioglimento = 
 |rifondazione = 
-|presidente = Jason Wong
-|allenatore = [[Massimiliano Allegri]]
+|presidente = [[Silvio Berlusconi]]
+|allenatore = [[Vincenzo Montella]]
 |stadio = [[Stadio Giuseppe Meazza|Giuseppe Meazza (San Siro)]] 
 |capienza = 80.018
 |scudetti = 18
@@ -69,7 +69,7 @@
 |coppe Intercontinentali = 3
 |coppe del mondo per club = 1
 |sito = www.acmilan.com
-|stagione attuale = Associazione Calcio Milan 2012-2013
+|stagione attuale = Associazione Calcio Milan 2016-2017
 }}
 
 '''Associazione Calcio Milan''' e ben wan [[Italiyanikondre|italiyanik]] fotbal pluga den presi fu [[Milano]].
