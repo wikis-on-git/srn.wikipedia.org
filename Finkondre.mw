@@ -1,6 +1,52 @@
 '''Finkondre''' na wan [[kondre]] ini [[Ropa]].
+[[File:Flag of Finland.svg|thumb]]
+[[File:Coat of arms of Finland.svg|thumb]]
+[[File:EU-Finland.svg|thumb]]
+<timeline>
+ImageSize = width:440 height:200
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:6000000
+ScaleMajor = unit:year increment:6000000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:1000000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1800 from:0 till: 832700
+  bar:1820 from:0 till: 1177500
+  bar:1840 from:0 till: 1445600
+  bar:1860 from:0 till: 1746700
+  bar:1880 from:0 till: 2060800
+  bar:1900 from:0 till: 2655900
+  bar:1920 from:0 till: 3147600
+  bar:1940 from:0 till: 3695617
+  bar:1960 from:0 till: 4446222
+  bar:1980 from:0 till: 4787778
+  bar:2000 from:0 till: 5375276
+  bar:2016 from:0 till: 5495830
+ 
+PlotData=
+  textcolor:black fontsize:S
+  bar:1800 at: 832700 text: 0.83 shift:(0)
+  bar:1820 at: 1177500 text: 1.18 shift:(0)
+  bar:1840 at: 1445600 text: 1.45 shift:(0)
+  bar:1860 at: 1746700 text: 1.75 shift:(0)
+  bar:1880 at: 2060800 text: 2.06 shift:(0)
+  bar:1900 at: 2655900 text: 2.66 shift:(0)
+  bar:1920 at: 3147600 text: 3.15 shift:(0)
+  bar:1940 at: 3695617 text: 3.70 shift:(0)
+  bar:1960 at: 4446222 text: 4.45 shift:(0)
+  bar:1980 at: 4787778 text: 4.79 shift:(0)
+  bar:2000 at: 5375276 text: 5.18 shift:(0)
+  bar:2016 at: 5495830 text: 5.50 shift:(0)
+  </timeline>
 
 {{Ropa}}
 
-[[Guru:Kondre]]
-[[Guru:Ropa]]
+[[Guru:Finkondre]]
