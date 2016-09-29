@@ -1,10 +1,10 @@
 {{Infrubox Kondre
-| native_name              = ''Repubblica italiana<br />''Ripoliku Italiyanik''
+| native_name              = ''Repubblica Italiana<br />''Ripoliku Italiyanik''
 | conventional_long_name   = Republic of Italy
 | common_name              = Italia
 | image_flag               = Flag of Italy.svg
 | image_coat               = Italy-Emblem.svg
-| national_motto          = ''Justitia - Pietas - Fides''{{nbsp|2}}<small>{{la icon}}<br />"Justice - Piety - Loyalty"
+| national_motto          = 
 | image_map                = LocationItaly.svg
 | national_anthem          = ''[[Il Canto degli Italiani]]''
 | official_languages       = [[Italilyanitongo]]
@@ -13,7 +13,7 @@
 | latd=5 |latm=50 |latNS=N |longd=55 |longm=10 |longEW=W
 | government_type          = [[Constitutional democracy]]
 | leader_title1            = [[President of Italy|President]]
-| leader_name1             = [[Giorgio Napolitano]]
+| leader_name1             = [[Sergio Mattarella]]
 | largest_city             = [[Roma]]
 | area_km2                 = 301 338
 | area_sq_mi               = 200,4 <!--Do not remove per [[WP:MOSNUM]]-->
@@ -47,7 +47,7 @@
 | utc_offset               = 
 | time_zone_DST            = 
 | utc_offset_DST           = 
-| cctld                    = [[.it]]
+| cctld                    = [[.it]], [[.eu]]
 | calling_code             = 039
 | footnotes                = 
 }}
