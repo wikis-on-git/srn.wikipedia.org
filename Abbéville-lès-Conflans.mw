@@ -1,24 +1,24 @@
-[[Image:Meurthe-et-Moselle-Position.png|thumb|A lokasi fu Meurthe-et-Moselle]]
-'''Abbéville-lès-Conflans''' e ben wan minti ini a [[Franskondre|Franskondre]] departementi [[Meurthe-et-Moselle|Meurthe-et-Moselle]] (regio Lotari) nanga e abi 236 man (2004). A presi e ben wan ondrodeli fu a arrondissementi Briey.
+[[Gefre:Meurthe-et-Moselle-Position.png|thumb|A lokasi fu Meurthe-et-Moselle]]
+'''Abbéville-lès-Conflans''' e ben wan minti ini a [[Franskondre]] departementi [[Meurthe-et-Moselle]] (regio Lotari) nanga e abi 236 man (2004). A presi e ben wan ondrodeli fu a arrondissementi Briey.
 
 == Geografi ==
 A opoflaku fu Abbéville-lès-Conflans e ben 7,7 km², a manklositisi e ben 30,7 man fu km².
 
 == Demografi ==
 A ondrobenin figur e gi a fulopi fu a numro den man.
-<timeline>                                                
-ImageSize  = width:250 height:200                          
-PlotArea   = left:40 right:10 top:10 bottom:20            
-TimeAxis   = orientation:horizontal                       
-AlignBars  = justify                                       
-Colors =                                                
+<timeline>
+ImageSize = width:250 height:200
+PlotArea = left:40 right:10 top:10 bottom:20
+TimeAxis = orientation:horizontal
+AlignBars = justify
+Colors =
   id:gray1 value:gray(0.9)                           
                                                   
-DateFormat = yyyy                                 
-Period     = from:1960 till:2010                 
+DateFormat = yyyy
+Period = from:1960 till:2010
 ScaleMajor = unit:year increment:10 start:1960
                                     
-PlotData =                          
+PlotData =
   bar:330 color:gray1 width:1       
   from:start till:end             
   bar:220 color:gray1              
@@ -28,7 +28,7 @@ PlotData =
   bar:0 color:gray1       
                        
                     
-LineData =       
+LineData =
   layer:front    
   points:(48,145)(84,133) color:blue  width:2 #1962 tot 1968. Inwonertal 1962: 242 1968: 219
   points:(84,133)(100,124)    color:blue    width:2 #1975: 201
