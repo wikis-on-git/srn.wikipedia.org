@@ -1,23 +1,6 @@
 {{Fruwondruwiwiri/Odi}}
-
-{{cartella|titolo=[[Wikipedia:Flosi grati|Flosi grati]]
-  |link=template:Fesipapira/Flosi grati/{{#expr: {{CURRENTWEEK}} mod {{Wikipedia:Flosi grati/Nomru}} +1}}
-  |logo=Vista-keditbookmarks.png
-  |col_testata=CEF
-  |font_size=90
-  |contenuto={{Fesipapira/Flosi grati/{{#expr: {{CURRENTWEEK}} mod {{Wikipedia:Flosi grati/Nomru}} +1}}}}
-}}
-
 {{Fruwondruwiwiri/Rei}}
-
-
 {{SkopuPapira}}
-
-
-----
-<center><big>Ala Papira</big></center>
-----
-
 {{Fruwondruwiwiri/Interwiki}}
 
 [[Guru:Wp/srn]]
