@@ -1,10 +1,10 @@
 {{Infrubox Kondre
-| native_name              = ''Republic of Turkey <br />''Ripoliku Turkiyakondre''
+| native_name              = ''Republic of Turkey''<br />''Türkiye Cumhuriyeti''<br />''Ripoliku Turkiyakondre''
 | conventional_long_name   = Republic of Turkey
 | common_name              = Turkiyakondre
 | image_flag               = Flag of Turkey.svg
 | image_coat               = Emblem of Turkey.svg 
-| national_motto          = "Peace at Home, Peace in the World"
+| national_motto           = ''Yurtta barış, Dünyada barış'' "(Peace at Home, Peace in the World)"
 | image_map                = Turkey (orthographic projection).svg
 | national_anthem          = ''[[İstiklâl Marşı]]''
 | official_languages       = [[Turkiyatongo]]
@@ -16,6 +16,8 @@
 | leader_name1             = [[Recep Tayyip Erdoğan]]
 | leader_title2            = [[Vice President of Turkey|Vice President]]
 | leader_name2             = [[Fuat Oktay]]
+| leader_title3            = [[Speaker of the Grand National Assembly|Assembly Speaker]]
+| leader_name3             = [[Binalı Yıldırım]]
 | largest_city             = [[Istanbul]]
 | area_km2                 = 783,562 
 | area_sq_mi               = 302,535  <!--Do not remove per [[WP:MOSNUM]]-->
@@ -31,10 +33,10 @@
 | population_density_sq_mi = 105km/2 <!--Do not remove per [[WP:MOSNUM]]-->
 | population_density_rank  = 107th
 | GDP_PPP_year             = 2019
-| GDP_PPP                  = 
-| GDP_PPP_rank             = 
-| GDP_PPP_per_capita       = 
-| GDP_PPP_per_capita_rank  = 
+| GDP_PPP                  = $713 billion
+| GDP_PPP_rank             = 17th
+| GDP_PPP_per_capita       = $8,715
+| GDP_PPP_per_capita_rank  = 60th
 | HDI_year                 = 2018
 | HDI                      = 0.791
 | HDI_rank                 = 64th
@@ -43,12 +45,12 @@
 | sovereignty_note         = 
 | established_event1       = 
 | established_date1        = 
-| currency                 = [[Lira]]
+| currency                 = [[Turkish Lira|Lira]]
 | currency_code            = TRY
 | time_zone                = (UTC+3)
-| utc_offset               = 
-| time_zone_DST            = 
-| utc_offset_DST           = 
+| utc_offset               = [[Eastern European Time|EET]]
+| time_zone_DST            = (UTC+2)
+| utc_offset_DST           = [[Eastern European Summer Time|EEST]]
 | cctld                    = [[.tr]]
 | calling_code             = 90
 | footnotes                = 
