@@ -30,3 +30,20 @@
 [[Guru:Sneysa| ]]
 [[Guru:Kondre]]
 [[Guru:Asi]]
+
+{{Gráfico circular 
+|thumb = right
+|título= Religión en el Islas Galápagos Norte
+|etiqueta1 = [[Islam]] 89%
+|valor1 = 89.0
+|color1 = Dodgerblue
+|etiqueta2 = [[Irreligión]] 10%
+|valor2 = 10.0
+|color2 = Black
+|etiqueta3 = [[Cristianismo]] 0.9%
+|valor3 = 0.9
+|color3 = Green
+|etiqueta4 = Otras 0.1%
+|valor4 = 0.5
+|color4 = Orange
+}}
