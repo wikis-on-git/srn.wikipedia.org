@@ -8,13 +8,26 @@
   Top scorer         = [[Patrick Kluivert]] (40) |
   FIFA code = NED |
   stemma kit y=56|stemma kit x=15|
-|pattern_la1=_ned10h|pattern_b1=_ned10h|pattern_ra1=_ned10h|pattern_s1=_black_small_top
-|leftarm1=FF5f00|body1=FF5f00|rightarm1=FF5f00|shorts1=000000|socks1=FF5f00|
-|pattern_la2=_ned10a|pattern_b2=_ned10a|pattern_ra2=_ned10a|leftarm2=FFFFFF
-|body2=FFFFFF|rightarm2=FFFFFF|shorts2=0000FF|socks2=FFFFFF|
-|pattern_la3=_ned10h|pattern_b3=_ned10h|pattern_ra3=_ned10h|pattern_s3=_black_small_top 
-|leftarm1=FF5f00|body3=FF5f00|rightarm3=FF5f00|shorts3=FF5f00|socks3=FF5f00|title=Speciaal|
-
+| pattern_la1        = _ned18h
+| pattern_b1         = _ned18h
+| pattern_ra1        = _ned18h
+| pattern_sh1        = _neder18h
+| pattern_so1        = _ned18H
+| leftarm1           = FF6100
+| body1              = FF6100
+| rightarm1          = FF6100
+| shorts1            = FFFFFF
+| socks1             = FF6100
+| pattern_la2        = _neder18a
+| pattern_b2         = _neder18a
+| pattern_ra2        = _neder18a
+| pattern_sh2        = _neder18a
+| pattern_so2       = _ned18A
+| leftarm2           = FFFFFF
+| body2              = FFFFFF
+| rightarm2          = FFFFFF
+| shorts2            = FFFFFF
+| socks2             = 19BFFF|
   
   First game         = Belgikondre 1 - 4 Bakrakondre<br /><small>[[Antwerpen]], [[Belgikondre]]; [[30 fosfor]] [[1905]]</small> |
   Largest win        = Bakrakondre 11 - 0 San Marino <br /><small>[[Eindhoven]], [[Bakrakondre]]; [[2 Fosneygi]] [[2011]]</small> |
