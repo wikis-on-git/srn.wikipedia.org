@@ -1,4 +1,19 @@
-'''Ogarnikondre''' na wan [[kondre]] ini [[Ropa]].
+<mapframe latitude="47.383474" longitude="19.335938" zoom="2" width="228" height="181" align="right">{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.687500000000004,
+          47.040182144806664
+        ]
+      }
+    }
+  ]
+}</mapframe>'''Ogarnikondre''' na wan [[kondre]] ini [[Ropa]].
 
 {{Ropa}}
 
