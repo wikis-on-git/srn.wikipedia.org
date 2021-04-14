@@ -8,10 +8,26 @@
   Top scorer         = [[Pelé]] (77) |
   FIFA code = BRA |
   stemma kit y=56|stemma kit x=15|
-| pattern_la1=|pattern_b1=_bra08h|pattern_ra1=_Brazil_home_2006|pattern_sh1=|pattern_s=_bra08
-| leftarm1=FFD630|body1=FFD630|rightarm1=FFD630|shorts1=10559F|socks1=FFFFFF
-| pattern_la2=|pattern_b2=_bra08a|pattern_ra2=|pattern_sh2=
-| leftarm2=3459ac|body2=3459ac|rightarm2=3459ac|shorts2=FFFFFF|socks2=3459ac
+| pattern_la1              = _bra20H
+| pattern_b1               = _bra20H
+| pattern_ra1              = _bra20H
+| pattern_sh1              = _bra20h
+| pattern_so1              = _bra20h
+| leftarm1                 = FFCC00  
+| body1                    = FFCC00
+| rightarm1                = FFCC00
+| shorts1                  = 0000FF
+| socks1                   = FFFFFF
+| pattern_la2              = _bra20A
+| pattern_b2               = _bra20A
+| pattern_ra2              = _bra20A
+| pattern_sh2              = _bra19aw
+| pattern_so2              = _nikeyellow
+| leftarm2                 = 003CFF
+| body2                    = 003CFF
+| rightarm2                = 003CFF
+| shorts2                  = FFFFFF
+| socks2                   = 003CFF
 
 | First game         = Argentinakondre 3 - 0 Brasilkondre<br /><small>[[Buenos Aires]], [[Argentinakondre]]; [[20 fosneygi]] [[1914]]</small>
 | Largest win        = Brasilkondre 14 - 0 Nicaragua <br /><small>[[Meksikokondre]]; [[17 fosten]] [[1975]]</small><br /></small> 
