@@ -1,101 +1,96 @@
 {{Infrubox Kondre
-|native_name                 = ''Deutschland''
-|conventional_long_name      = 
-|common_name                 = Doysrikondre
-|image_flag                  = Flag of Germany.svg
-|image_coat                  = Coat of Arms of Germany.svg
-|image_map = EU location GER.png
-|map_caption = 
-|national_motto              =
-|national_anthem             = "''[[Deutschlandlied]]''"
-|official_languages          = [[Doysritongo]]
-|ethnic_groups               = 
-|ethnic_groups_year          = 
-|demonym                     = 
-|capital                     = [[Berlin]]<!-- ² -->
-|largest_city                = capital
+|native_name           = ''Deutschland''
+|conventional_long_name= 
+|common_name       = Doysrikondre
+|image_flag        = Flag of Germany.svg
+|image_coat        = Coat of Arms of Germany.svg
+|image_map         = EU location GER.png
+|map_caption       = 
+|national_motto    =
+|national_anthem   = "''[[Deutschlandlied]]''"
+|official_languages= [[Doysritongo]]
+|ethnic_groups     = 
+|ethnic_groups_year= 
+|demonym           = 
+|capital           = [[Berlin]]<!-- ² -->
+|largest_city      = capital
 |latd=52 |latm=21 |latNS=N |longd=04 |longm=52 |longEW=E
-|government_type             = 
-|leader_title1               = [[Bundeskanzler]]in
-|leader_name1                = [[Angela Merkel]]
-|leader_title2               = [[Bundespraesident]]
-|leader_name2                = [[Horst Köhler]]
-|area_rank                   = 63rd
-|area_magnitude              = 1 E10
-|area_km2                        = 357,385
-|area_sq_mi                     = 137,847 <!--Do not remove per [[WP:MOSNUM]]-->
-|percent_water               = 2.416
-|population_estimate         = 82.521.653
-|population_estimate_year    = 2016
-|population_estimate_rank    = 16th
-|population_census           = 
-|population_census_year      = 
-|population_density_km2          = 231
-|population_density_sq_mi       = 596 <!--Do not remove per [[WP:MOSNUM]]-->
-|population_density_rank     = 36th
-|GDP_PPP_year                = 
-|GDP_PPP                     = 
-|GDP_PPP_rank                = 
-|GDP_PPP_per_capita          = 
-|GDP_PPP_per_capita_rank     = 
-|GDP_nominal                 = 
-|GDP_nominal_rank            = 
-|GDP_nominal_year            = 
-|GDP_nominal_per_capita      = 
-|GDP_nominal_per_capita_rank = 
-|sovereignty_type            = 
-|sovereignty_note            = 
-|established_event1          = 
-|established_date1           = 
-|established_event2          = 
-|established_date2           = 
-|accessionEUdate             = 
-|HDI_year                    = 
-|HDI                         = 
-|HDI_rank                    = 
-|HDI_category                = <font color="#009900">high</font>
-|currency                    = [[Euro]] ([[Euro sign|€]])<sup>5</sup>
-|currency_code               = EUR
-|country_code                = GER
-|time_zone                   = [[Central European Time|CET]]
-|utc_offset                  = +1
-|time_zone_DST               = [[Central European Summer Time|CEST]]
-|utc_offset_DST              = +2
-|cctld                       = [[.de]] <!-- <sup>6</sup> -->
-|calling_code                = 31
-|footnote1                   = 
-|footnote2                   = 
-|footnote3                   = 
-|footnote4                   = 
-|footnote5                   = 
-|footnote6                   = The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
+|government_type   = 
+|leader_title1     = [[Bundeskanzler]]
+|leader_name1      = [[Olaf Scholz]]
+|leader_title2     = [[Bundespraesident]]
+|leader_name2      = [[Frank-Walter Steinmeier]]
+|area_rank         = 62rd
+|area_magnitude    = 1 E10
+|area_km2          = 357,022
+|area_sq_mi        = 137,847 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water     = 2.416
+|population_estimate     = 83.129.285
+|population_estimate_year= 2021
+|population_estimate_rank= 18th
+|population_census       = 
+|population_census_year  = 
+|population_density_km2  = 232
+|population_density_sq_mi= 596 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 41th
+|GDP_PPP_year            =
+|GDP_PPP                 =
+|GDP_PPP_rank            =
+|GDP_PPP_per_capita      =
+|GDP_PPP_per_capita_rank = 
+|GDP_nominal                =
+|GDP_nominal_rank           =
+|GDP_nominal_year           =
+|GDP_nominal_per_capita     =
+|GDP_nominal_per_capita_rank=
+|sovereignty_type  = 
+|sovereignty_note  = 
+|established_event1= 
+|established_date1 = 
+|established_event2= 
+|established_date2 = 
+|accessionEUdate   = 
+|HDI_year      =
+|HDI           =
+|HDI_rank      =
+|HDI_category  = <font color="#009900">high</font>
+|currency      = [[Euro]] ([[Euro sign|€]])<sup>5</sup>
+|currency_code = EUR
+|country_code  = DEU
+|time_zone     = [[Central European Time|CET]]
+|utc_offset    = +1
+|time_zone_DST = [[Central European Summer Time|CEST]]
+|utc_offset_DST= +2
+|cctld         = [[.de]] <!-- <sup>6</sup> -->
+|calling_code  = 49
+|footnote1     =
+|footnote2     =
+|footnote3     =
+|footnote4     =
+|footnote5     =
+|footnote6     = The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
 }}
 '''Doysrikondre''' ([[Doysritongo|Doysrit.]]: ''Deutschland'') na wan [[kondre]] ini [[Ropa]]. A [[mamafoto]] na [[Berlin]]. Man e taki ini osaki [[Doysritongo]] ma ok pasa tongo ben e hiriba.
 
 == Patumu ==
-Doysrikondre ben patumu ini 16 "Länder". 
-[[Gefre:Germany general map.png|miniatuur|200px|Dilinu]]
-{|class="wikitable" width="400px"
-|width="250px"|[[Gefre:Coat of arms of Baden-Württemberg (lesser).svg|24px]] [[Baden-Württemberg]]
-|width="250px"|[[Gefre:Bayern Wappen.svg|24px]] [[Bayern]]
-|width="250px"|[[Gefre:Coat of arms of Berlin.svg|24px]] [[Berlin]]
-|width="250px"|[[Gefre:Brandenburg Wappen.svg|24px]] [[Brandenburg]]
-|-
-|[[Gefre:Bremen Wappen(Mittel).svg|24px]] [[Bremen]]
-|[[Gefre:DEU Hamburg COA.svg|24px]] [[Hamburg]]
-|[[Gefre:Coat of arms of Hesse.svg|24px]] [[Hessen]]
-|[[Gefre:Coat of arms of Mecklenburg-Western Pomerania (great).svg|24px]] [[Mecklenburg-Vorpommern]]
-|-
-|[[Gefre:Coat of arms of Lower Saxony.svg|24px]] [[Niedersachsen]]
-|[[Gefre:Coat of arms of North Rhine-Westfalia.svg|24px]] [[Nordrhein-Westfalen]]
-|[[Gefre:Coat of arms of Rhineland-Palatinate.svg|24px]] [[Rheinland-Pfalz]]
-|[[Gefre:Wappen des Saarlands.svg|24px]] [[Saarland]]
-|-
-|[[Gefre:Coat of arms of Saxony.svg|24px]] [[Sachsen]] 
-|[[Gefre:Wappen Sachsen-Anhalt.svg|24px]] [[Sachsen-Anhalt]] 
-|[[Gefre:Coat of arms of Schleswig-Holstein.svg|24px]] [[Schleswig-Holstein]] 
-|[[Gefre:Coat of arms of Thuringia.svg|24px]] [[Thüringen]] 
-|}
+Doysrikondre ben patumu ini 16&nbsp;"Länder".
+[[Gefre:Germany general map.png|miniatuur|Dilinu]]
+* [[Gefre:Coat of arms of Baden-Württemberg (lesser).svg|24px]] [[Baden-Württemberg]]
+* [[Gefre:Bayern Wappen.svg|24px]] [[Bayern]]
+* [[Gefre:Coat of arms of Berlin.svg|24px]] [[Berlin]]
+* [[Gefre:Brandenburg Wappen.svg|24px]] [[Brandenburg]]
+* [[Gefre:Bremen Wappen(Mittel).svg|24px]] [[Bremen]]
+* [[Gefre:DEU Hamburg COA.svg|24px]] [[Hamburg]]
+* [[Gefre:Coat of arms of Hesse.svg|24px]] [[Hessen]]
+* [[Gefre:Coat of arms of Mecklenburg-Western Pomerania (great).svg|24px]][[Mecklenburg-Vorpommern]]
+* [[Gefre:Coat of arms of Lower Saxony.svg|24px]] [[Niedersachsen]]
+* [[Gefre:Coat of arms of North Rhine-Westfalia.svg|24px]] [[Nordrhein-Westfalen]]
+* [[Gefre:Coat of arms of Rhineland-Palatinate.svg|24px]] [[Rheinland-Pfalz]]
+* [[Gefre:Wappen des Saarlands.svg|24px]] [[Saarland]]
+* [[Gefre:Coat of arms of Saxony.svg|24px]] [[Sachsen]]
+* [[Gefre:Wappen Sachsen-Anhalt.svg|24px]] [[Sachsen-Anhalt]]
+* [[Gefre:Coat of arms of Schleswig-Holstein.svg|24px]] [[Schleswig-Holstein]]
+* [[Gefre:Coat of arms of Thuringia.svg|24px]] [[Thüringen]]
 
 {{Stub}}
 {{Ropa}}
