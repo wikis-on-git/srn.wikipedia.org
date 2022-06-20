@@ -1,0 +1,35 @@
+{| class="infobox" border="1" style="width: 25em; float:right; text-align: left; font-size: 90%;"
+|-
+| colspan="2" style="text-align:center; font-size: large;" | '''{{{common_name}}}'''<br/><small>{{{native_name}}}</small>
+|-
+| colspan="2" style="text-align:center;" | [[Image:{{{image_map}}}|300px| ]]<br><!-- {{{caption}}} -->
+|-
+| align="center" colspan="2"  |
+{| border=0 cellspacing=0 cellpadding=4 style="background: none;"
+{{#if: {{{image_flag|}}} |
+{{!}} align="center" width="120"  {{!}} [[image:{{{image_flag}}}|75px|Nasifla]] }} {{#if:{{{nasifla-sub|}}}|<br/><small>([[{{{nasifla-sub}}}|infru]])</small>|}}
+{{#if: {{{image_coat|}}} |
+{{!}} align="center" width="120"  {{!}} [[image:{{{image_coat}}}|75px|Presifla]] }} {{#if:{{{presifla-sub|}}}|<br/><small>([[{{{presifla-sub}}}|infru]])</small>|}}
+|}
+|-
+{{#if: {{{official_languages|}}} | {{!}} [[Tongo|Tongo]]:  {{!!}} {{{official_languages}}} }}
+|-
+{{#if: {{{capital|}}} | {{!}} [[Presiplusplus|Presip]]:  {{!!}} {{{capital}}} }}
+|-
+{{#if: {{{fridomo|}}} | {{!}} Fridomo fru:  {{!!}} {{{fridomo}}} }}
+|-
+{{#if: {{{area_km2|}}} | {{!}} Flaku:  {{!!}} {{{area_km2}}} km² }}
+|-
+{{#if: {{{percent_water|}}} | {{!}} Flaku efu watra:  {{!!}} {{{percent_water}}} % }}
+|-
+{{#if: {{{population_estimate|}}} | {{!}} Man:  {{!!}} {{{population_estimate}}} ({{{population_estimate_year}}}) }}
+|-
+{{#if: {{{population_density_km2|}}} | {{!}} Man a flaku:  {{!!}} {{{population_density_km2}}} a km² }}
+|-
+{{#if: {{{Currency|}}} | {{!}} Moni:  {{!!}} {{{Currency}}} {{{currency_code|{{{moni_kod|}}}}
+|-
+{{#if: {{{cctld|}}} | {{!}} [[Internet TLD|I TLD]]:  {{!!}} {{{cctld}}} }}
+|-
+|}<noinclude>[[Guru:Infrubox Ankra]]
+[[Guru:Wp/srn]]
+</noinclude>
