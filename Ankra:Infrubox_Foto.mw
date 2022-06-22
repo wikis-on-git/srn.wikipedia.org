@@ -12,7 +12,7 @@
 {{!}} align="center" width="100"  {{!}} [[image:{{{image_coat}}}|100px|Presifla]] }} {{#if:{{{presifla-sub|}}}|<br/><small>([[{{{presifla-sub}}}|infru]])</small>|}}
 |}
 |-
-{{#if: {{{capital|}}} | {{!}} [[Presiplusplus|Presip]]:  {{!!}} {{{capital}}} }}
+{{#if: {{{country|}}} | {{!}} [[Kondre|Kondre]]:  {{!!}} {{{country}}} }}
 |-
 {{#if: {{{fridomo|}}} | {{!}} Fridomo fru:  {{!!}} {{{fridomo}}} }}
 |-
