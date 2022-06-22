@@ -12,8 +12,6 @@
 |-
 | colspan="2" style="text-align:center;" | [[Image:{{{image_map}}}|300px| ]]<br><!-- {{{caption}}} -->
 |-
-| align="center" colspan="2"  
-|-
 {{#if: {{{official_languages|}}} | {{!}} [[Tongo|Tongo]]:  {{!!}} {{{official_languages}}} }}
 |-
 {{#if: {{{capital|}}} | {{!}} [[Presiplusplus|Presip]]:  {{!!}} {{{capital}}} }}
