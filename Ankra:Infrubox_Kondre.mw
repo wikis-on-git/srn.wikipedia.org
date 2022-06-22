@@ -16,7 +16,11 @@
 |-
 {{#if: {{{capital|}}} | {{!}} [[Presiplusplus|Presip]]:  {{!!}} {{{capital}}} }}
 |-
-{{#if: {{{fridomo|}}} | {{!}} Fridomo fru:  {{!!}} {{{fridomo}}} }}
+|{{#if:{{{established_event1<includeonly>|</includeonly>}}}{{{sovereignty_note|{{{dey_fu_kisi_fridomo|}}}}}} |<!--then:-->
+! {{{sovereignty_type|{{{fridomo}}}}}}
+{{!}} {{{sovereignty_note|{{{dey_fu_kisi_fridomo<includeonly>|</includeonly>}}}}}}&nbsp;
+}}
+|- {{#if:{{{established_event2<includeonly>|</includeonly>}}}|<!--then:-->class="mergedrow"|<!--else:-->class="mergedbottomrow"}}
 |-
 {{#if: {{{area_km2|}}} | {{!}} Flaku:  {{!!}} {{{area_km2}}} km² }}
 |-
