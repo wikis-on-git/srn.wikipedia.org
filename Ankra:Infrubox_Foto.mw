@@ -7,9 +7,9 @@
 | align="center" colspan="2"  |
 {| border=0 cellspacing=0 cellpadding=4 style="background: none;"
 {{#if: {{{image_flag|}}} |
-{{!}} align="center" width="120"  {{!}} [[image:{{{image_flag}}}|75px|Nasifla]] }} {{#if:{{{nasifla-sub|}}}|<br/><small>([[{{{nasifla-sub}}}|infru]])</small>|}}
+{{!}} align="center" width="160"  {{!}} [[image:{{{image_flag}}}|450px|Nasifla]] }} {{#if:{{{nasifla-sub|}}}|<br/><small>([[{{{nasifla-sub}}}|infru]])</small>|}}
 {{#if: {{{image_coat|}}} |
-{{!}} align="center" width="120"  {{!}} [[image:{{{image_coat}}}|75px|Presifla]] }} {{#if:{{{presifla-sub|}}}|<br/><small>([[{{{presifla-sub}}}|infru]])</small>|}}
+{{!}} align="center" width="125"  {{!}} [[image:{{{image_coat}}}|130px|Presifla]] }} {{#if:{{{presifla-sub|}}}|<br/><small>([[{{{presifla-sub}}}|infru]])</small>|}}
 |}
 |-
 {{#if: {{{capital|}}} | {{!}} [[Presiplusplus|Presip]]:  {{!!}} {{{capital}}} }}
