@@ -2,15 +2,17 @@
 |-
 | colspan="2" style="text-align:center; font-size: large;" | '''{{{common_name}}}'''<br/><small>{{{native_name}}}</small>
 |-
-| colspan="2" style="text-align:center;" | [[Image:{{{image_map}}}|300px| ]]<br><!-- {{{caption}}} -->
-|-
-| align="center" colspan="2"  |
+|
 {| border=0 cellspacing=0 cellpadding=4 style="background: none;"
 {{#if: {{{image_flag|}}} |
 {{!}} align="center" width="120"  {{!}} [[image:{{{image_flag}}}|250px|Nasifla]] }} {{#if:{{{nasifla-sub|}}}|<br/><small>([[{{{nasifla-sub}}}|infru]])</small>|}}
 {{#if: {{{image_coat|}}} |
 {{!}} align="center" width="120"  {{!}} [[image:{{{image_coat}}}|100px|Presifla]] }} {{#if:{{{presifla-sub|}}}|<br/><small>([[{{{presifla-sub}}}|infru]])</small>|}}
 |}
+|-
+| colspan="2" style="text-align:center;" | [[Image:{{{image_map}}}|300px| ]]<br><!-- {{{caption}}} -->
+|-
+| align="center" colspan="2"  
 |-
 {{#if: {{{official_languages|}}} | {{!}} [[Tongo|Tongo]]:  {{!!}} {{{official_languages}}} }}
 |-
