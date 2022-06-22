@@ -7,7 +7,7 @@
 {{#if: {{{image_flag|}}} |
 {{!}} align="center" width="160"  {{!}} [[image:{{{image_flag}}}|450px|Nasifla]] }} {{#if:{{{nasifla-sub|}}}|<br/><small>([[{{{nasifla-sub}}}|infru]])</small>|}}
 {{#if: {{{image_coat|}}} |
-{{!}} align="center" width="120"  {{!}} [[image:{{{image_coat}}}|125px|Presifla]] }} {{#if:{{{presifla-sub|}}}|<br/><small>([[{{{presifla-sub}}}|infru]])</small>|}}
+{{!}} align="center" width="120"  {{!}} [[image:{{{image_coat}}}|130px|Presifla]] }} {{#if:{{{presifla-sub|}}}|<br/><small>([[{{{presifla-sub}}}|infru]])</small>|}}
 |}
 |-
 | colspan="2" style="text-align:center;" | [[Image:{{{image_map}}}|300px| ]]<br><!-- {{{caption}}} -->
