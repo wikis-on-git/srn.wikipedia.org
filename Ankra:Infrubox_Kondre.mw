@@ -5,7 +5,7 @@
 |
 {| border=0 cellspacing=0 cellpadding=4 style="background: none;"
 {{#if: {{{image_flag|}}} |
-{{!}} align="center" width="120"  {{!}} [[image:{{{image_flag}}}|450px|Nasifla]] }} {{#if:{{{nasifla-sub|}}}|<br/><small>([[{{{nasifla-sub}}}|infru]])</small>|}}
+{{!}} align="center" width="120"  {{!}} [[image:{{{image_flag}}}|1050px|Nasifla]] }} {{#if:{{{nasifla-sub|}}}|<br/><small>([[{{{nasifla-sub}}}|infru]])</small>|}}
 {{#if: {{{image_coat|}}} |
 {{!}} align="center" width="120"  {{!}} [[image:{{{image_coat}}}|100px|Presifla]] }} {{#if:{{{presifla-sub|}}}|<br/><small>([[{{{presifla-sub}}}|infru]])</small>|}}
 |}
