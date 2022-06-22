@@ -3,7 +3,7 @@
 | colspan="2" style="text-align:center; font-size: large;" | '''{{{common_name}}}'''<br/><small>{{{native_name}}}</small>
 |-
 |
-{| border=1 cellspacing=0 cellpadding=4 style="background: none;"
+{| border=0 cellspacing=1 cellpadding=4 style="background: none;"
 {{#if: {{{image_flag|}}} |
 {{!}} align="center" width="180"  {{!}} [[image:{{{image_flag}}}|450px|Nasifla]] }} {{#if:{{{nasifla-sub|}}}|<br/><small>([[{{{nasifla-sub}}}|infru]])</small>|}}
 {{#if: {{{image_coat|}}} |
