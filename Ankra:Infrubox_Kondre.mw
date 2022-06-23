@@ -14,7 +14,7 @@
 |-
 {{#if: {{{official_languages|}}} | {{!}} [[Tongo|Tongo]]:  {{!!}} {{{official_languages}}} }}
 |-
-{{#if: {{{capital|}}} | {{!}} [[Presiplusplus|Presip]]:  {{!!}} {{{capital}}} }}
+{{#if: {{{capital|}}} | {{!}} [[Mamafoto]]:  {{!!}} {{{capital}}} }}
 |-
 |{{#if:{{{established_event1<includeonly>|</includeonly>}}}{{{sovereignty_note|{{{dey_fu_kisi_fridomo|}}}}}} |<!--then:-->
 ! {{{sovereignty_type|{{{fridomo}}}}}}
@@ -30,7 +30,7 @@
 |-
 {{#if: {{{population_density_km2|}}} | {{!}} Man a flaku:  {{!!}} {{{population_density_km2}}} a km² }}
 |-
-{{#if: {{{Currency|}}} | {{!}} Moni:  {{!!}} {{{Currency}}}}}
+{{#if: {{{Currency|}}} | {{!}} Kondremoni:  {{!!}} {{{Currency}}}}}
 |-
 {{#if: {{{cctld|}}} | {{!}} [[Internet TLD|I TLD]]:  {{!!}} {{{cctld}}} }}
 |-
