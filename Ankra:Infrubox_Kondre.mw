@@ -30,7 +30,7 @@
 |-
 {{#if: {{{population_density_km2|}}} | {{!}} Man a flaku:  {{!!}} {{{population_density_km2}}} a km² }}
 |-
-{{#if: {{{Currency|}}} | {{!}} Kondremoni:  {{!!}} {{{Currency}}}}}
+{{#if: {{{Currency|}}} | {{!}} [[Kondremoni]]:  {{!!}} {{{Currency}}}}}
 |-
 {{#if: {{{cctld|}}} | {{!}} [[Internet TLD|I TLD]]:  {{!!}} {{{cctld}}} }}
 |-
